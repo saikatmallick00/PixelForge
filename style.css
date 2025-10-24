@@ -1,3 +1,6 @@
+:root {
+    --accent: #ff004c;
+}
 body {
     margin: 0;
     font-family: poppins, sans-serif;
@@ -93,7 +96,7 @@ p {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: var(--accennt);
+    background: var(--accent);
 }
 .posters { 
     display: flex;
@@ -185,7 +188,7 @@ p {
 }
 
 .logo-card img {
-  max-width: 40spx;
+  max-width: 40px;
   height: 40px;
   object-fit: contain;
   filter: invert(1) grayscale(1);
@@ -312,3 +315,4 @@ footer {
 html {
     scroll-behavior: smooth;
 }
+
