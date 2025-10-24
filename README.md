@@ -20,9 +20,8 @@ Watch the website live here: [PixelForge Live](https://saikatmallick00.github.io
 2. Open `index.html` in browser
 
 ## Screenshots / Video Demo
-![Homepage](assets/Images/valorant.jpg)
-![Features](assets/Images/cs2.jpg)
-![Partners](assets/Images/cod.jpeg)
+![Homepage](assets/Images/Screenshot1.png)
+![Features](assets/Images/Screenshot2.png)
+![Partners](assets/Images/Screenshot3.png)
 
-*(Optional: Video Demo can be added here as GIF or link)*
 
