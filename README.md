@@ -19,9 +19,9 @@ Watch the website live here: [PixelForge Live](https://saikatmallick00.github.io
 1. Clone this repo
 2. Open `index.html` in browser
 
-## Screenshots / Video Demo
+## Screenshots
 ![Homepage](assets/Images/Screenshot1.png)
-![Features](assets/Images/Screenshot2.png)
+![Features](assets/Images/screenshot2.png)
 ![Partners](assets/Images/Screenshot3.png)
 
 
