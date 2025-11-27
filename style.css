@@ -315,4 +315,8 @@ footer {
 html {
     scroll-behavior: smooth;
 }
+@media (max-width: 600px) {
+    .container {
+    flex-direction: column; /* Change 2-column → 1-column */
+}
 
